@@ -1,9 +1,9 @@
 # Title: Obedient Cat
-## Category: General Skill
-## Event: picoCTF2021 
-## Points: 5
+### Category: General Skill
+### Event: picoCTF2021 
+### Points: 5
 
-## Description:
+### Description:
 This file has a flag in plain sight (aka "in-the-clear").
 
 ### let's put on our cap!

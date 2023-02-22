@@ -1,9 +1,9 @@
 # Title: Glory of the Garden
-## Category: Forensics
-## Event: picoCTF2019
-## Points: 50
+### Category: Forensics
+### Event: picoCTF2019
+### Points: 50
 
-## Description:
+### Description:
 This garden contains more than it seems.
 
 ### let's put on our cap!

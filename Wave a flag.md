@@ -1,7 +1,7 @@
 # Title: Wave a flag
-## Category: General Skill
-## Event: picoCTF2021 
-## Points: 10
+### Category: General Skill
+### Event: picoCTF2021 
+### Points: 10
 
 ## Description:
 Can you invoke help flags for a tool or binary? This program has extraordinary helpful information...
